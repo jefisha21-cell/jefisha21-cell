@@ -10,7 +10,9 @@ Building scalable AI-powered applications with **Python**, **FastAPI**, and **Cl
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=jefisha21-cell&style=for-the-badge&color=blue"/>
+<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
 
@@ -159,15 +161,12 @@ Goal      : Building intelligent software that solves real-world problems
 
 ---
 
-# 🐍 Contributions
+
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefisha21-cell/jefisha21-cell/pacman-output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefisha21-cell/jefisha21-cell/pacman-output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jefisha21-cell/jefisha21-cell/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/jefisha21-cell/jefisha21-cell/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
