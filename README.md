@@ -108,17 +108,6 @@ Goal      : Building intelligent software that solves real-world problems
 
 </p>
 
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://raw.githubusercontent.com/jefisha21-cell/jefisha21-cell/stats-output/stats.svg"/>
-
-<img height="170" src="https://raw.githubusercontent.com/jefisha21-cell/jefisha21-cell/languages-output/languages.svg"/>
-
-</div>
 
 ---
 
@@ -161,16 +150,6 @@ Goal      : Building intelligent software that solves real-world problems
 
 ---
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jefisha21-cell/jefisha21-cell/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 <div align="center">
 
